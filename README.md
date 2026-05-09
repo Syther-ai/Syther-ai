@@ -1,16 +1,32 @@
-## Hi there 👋
-
 <!--
-**Syther-ai/Syther-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vishu 👋
 
-Here are some ideas to get you started:
+Cybersecurity  student at RMIT University, Melbourne.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Ethical Hacking
+- SOC Operations
+- Threat Detection
+- Python Security Tools
+- Network Security
+
+## Currently Learning
+- SIEM Fundamentals
+- Active Directory
+- Linux
+- Malware Analysis
+- Web Security
+
+## Projects
+- Chaotic Cipher Encryption System
+- Python Security Automation
+- TryHackMe Labs
+- Cybersecurity Home Lab
+
+## Goals
+- Build practical cybersecurity projects
+- Develop SOC and threat analysis skills
+- Contribute to security-focused open-source projects
+
+How to reach me: Hit me up either on Linkedin or Instagram
+CIAO --!>
