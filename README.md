@@ -1,4 +1,3 @@
-<!--
 # Hi, I'm Vishu 👋
 
 Cybersecurity  student at RMIT University, Melbourne.
@@ -28,5 +27,4 @@ Cybersecurity  student at RMIT University, Melbourne.
 - Develop SOC and threat analysis skills
 - Contribute to security-focused open-source projects
 
-How to reach me: Hit me up either on Linkedin or Instagram
-CIAO --!>
+How to reach me: Hit me up on linkedin or my socials.
